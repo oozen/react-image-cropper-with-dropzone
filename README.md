@@ -1,5 +1,5 @@
 # react-image-cropper-with-dropzone
-This is a React application from cropping images using Dropzone's drag and drop feature.
+This is a React application for cropping images using Dropzone's drag and drop feature.
 You can use this application as a standalone component after building it.
 
 ## Notes
